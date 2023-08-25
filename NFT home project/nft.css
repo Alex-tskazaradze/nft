@@ -1,0 +1,17 @@
+@font-face {
+    font-family: worksans;
+    src: url(/font/WorkSans.ttf);
+}
+
+*{
+    font-family: worksans;
+}
+body{
+    background-color: #2B2B2B;
+}
+.nav button{
+    background-color: #A259FF;
+    height: 60px;
+    width: 152px;
+    border-radius: 20px;
+}
